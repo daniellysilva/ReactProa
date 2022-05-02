@@ -1,0 +1,40 @@
+.navbar{
+    width: 100%;
+    float: left;
+    background-color: #111;
+    padding: 18px 8%;
+}
+
+.navbar li{
+    float: left;
+}
+
+.navbar li a{
+    color: #9d9d9d;
+    margin-right: 25px;
+}
+
+.navbar li a:hover{
+    color: #Fff;
+}
+
+.social-icons{
+    float: right;
+}
+
+.social-icons a{
+    color: #fff;
+    float: left;
+    margin-left: 20px;
+}
+
+.btn-facebook:hover{
+    color: #3b5998;
+}
+.btn-twitter:hover{
+    color: #54a4d6;
+}
+
+.btn-google:hover{
+    color: #d73d32;
+}

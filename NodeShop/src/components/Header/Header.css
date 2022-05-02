@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    border: none;
+}
+
+.App-header{
+    width: 100%;
+    float: left;
+    padding: 50px 8%;
+    background-color: #13c7ae;
+}
+
+.App-logo a{
+    width: 221px;
+    height: 48px;
+    float: left;
+    background: url(../Header/img/logo.png) no-repeat;
+    font-size: 0%;
+
+}
+
+.App-header form{
+    width: 30%;
+    float: right;
+}
+
+.App-header input[type=text]{
+    width: 85%;
+    float: left;
+    padding: 15px 10px;
+    border-radius: 10px 0 0 10px;
+}
+
+.App-header button{
+    width: 15%;
+    float: right;
+    padding: 15px 10px;
+    background-color: #0cae98;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 0 10px 10px 0;
+}
+
